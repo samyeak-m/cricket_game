@@ -100,13 +100,13 @@ class start
 					{
 						if(uteam=="Nepal"||uteam=="nepal")
 						{
-							mteam=="Nepal";
+							mteam="Nepal";
 							lteam=mteam;
 						}
 						
 						if(uteam=="India"||uteam=="india")
 						{
-							mteam=="India";
+							mteam="India";
 							lteam=mteam;
 						}
 					}

@@ -607,13 +607,14 @@ class start
 						if(sum>sums)
 						{
 							int by=sum-sums;
-								cout<<"Team "<<fings<<" has won the match by "<<by<<" runs."<<endl<<endl<<"\t\t\t\tThank you";
+								cout<<"Team "<<fings<<" has won the match by "<<by<<" runs."<<endl<<endl<<"\t\t\t\tThank you"<<endl
+									<<endl;
 						}
 							
 						if(sums>sum)
 						{
 							int wk=10-swt;
-								cout<<"Team "<<sings<<" has won the match by "<<wk<<" wickets."<<endl<<endl<<"\t\t\t\tThank you";
+								cout<<"Team "<<sings<<" has won the match by "<<wk<<" wickets."<<endl<<endl<<"\t\t\t\tThank you"<<endl<<endl;
 						}
 					}
 				}
